@@ -1,0 +1,26 @@
+.idea/
+*.iws
+*.iml
+*.ipr
+
+cmake-build-*/
+CMakeUserPresets.json
+Generated\ Files/
+
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+
+*.log
+*.log.*
+core
+*.stackdump
+
+.DS_Store
+Thumbs.db
